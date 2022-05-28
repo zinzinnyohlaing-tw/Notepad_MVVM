@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/KotlinAndroidDevelopmentProjects/MVVM_Archi_1/NoteAppMVVM/app/src/main/res/drawable/ic_add.xml" value="0.1" />
+        <entry key="..\:/KotlinAndroidDevelopmentProjects/MVVM_Archi_1/NoteAppMVVM/app/src/main/res/drawable/ic_delete.xml" value="0.1" />
+        <entry key="..\:/KotlinAndroidDevelopmentProjects/MVVM_Archi_1/NoteAppMVVM/app/src/main/res/drawable/ic_done.xml" value="0.1" />
+        <entry key="..\:/KotlinAndroidDevelopmentProjects/MVVM_Archi_1/NoteAppMVVM/app/src/main/res/drawable/ic_search_black.xml" value="0.1" />
+        <entry key="..\:/KotlinAndroidDevelopmentProjects/MVVM_Archi_1/NoteAppMVVM/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/KotlinAndroidDevelopmentProjects/MVVM_Archi_1/NoteAppMVVM/app/src/main/res/layout/fragment_home.xml" value="0.12771739130434784" />
+        <entry key="..\:/KotlinAndroidDevelopmentProjects/MVVM_Archi_1/NoteAppMVVM/app/src/main/res/layout/fragment_new_note.xml" value="0.12771739130434784" />
+        <entry key="..\:/KotlinAndroidDevelopmentProjects/MVVM_Archi_1/NoteAppMVVM/app/src/main/res/layout/fragment_update_note.xml" value="0.12771739130434784" />
+        <entry key="..\:/KotlinAndroidDevelopmentProjects/MVVM_Archi_1/NoteAppMVVM/app/src/main/res/layout/note_layout_adapter.xml" value="0.1" />
+        <entry key="..\:/KotlinAndroidDevelopmentProjects/MVVM_Archi_1/NoteAppMVVM/app/src/main/res/menu/home_menu.xml" value="0.21875" />
+        <entry key="..\:/KotlinAndroidDevelopmentProjects/MVVM_Archi_1/NoteAppMVVM/app/src/main/res/menu/menu_new_note.xml" value="0.21875" />
+        <entry key="..\:/KotlinAndroidDevelopmentProjects/MVVM_Archi_1/NoteAppMVVM/app/src/main/res/menu/menu_update_note.xml" value="0.21875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
